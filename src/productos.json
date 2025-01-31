@@ -1,0 +1,142 @@
+[
+  {
+    "idProducto": "P001",
+    "nombre": "Mouse LogiX",
+    "categoria": "Accesorios",
+    "precioBase": 15.99,
+    "stockInicial": 100
+  },
+  {
+    "idProducto": "P002",
+    "nombre": "Teclado MK40",
+    "categoria": "Accesorios",
+    "precioBase": 25.50,
+    "stockInicial": 50
+  },
+  {
+    "idProducto": "P003",
+    "nombre": "Suscripción SoftPro",
+    "categoria": "Software",
+    "precioBase": 99.00,
+    "licencia": "Anual"
+  },
+  {
+    "idProducto": "P004",
+    "nombre": "Paquete Ofimática",
+    "categoria": "Software",
+    "precioBase": 149.99,
+    "licencia": "Permanente"
+  },
+  {
+    "idProducto": "P005",
+    "nombre": "Monitor Ultra HD",
+    "categoria": "Hardware",
+    "precioBase": 299.00,
+    "stockInicial": 20
+  },
+  {
+    "idProducto": "P006",
+    "nombre": "Laptop X350",
+    "categoria": "Hardware",
+    "precioBase": 799.00,
+    "stockInicial": 10
+  },
+  {
+    "idProducto": "P007",
+    "nombre": "Router Wi-Fi Turbo",
+    "categoria": "Hardware",
+    "precioBase": 59.99,
+    "stockInicial": 30
+  },
+  {
+    "idProducto": "P008",
+    "nombre": "Cable HDMI 4K",
+    "categoria": "Accesorios",
+    "precioBase": 9.99,
+    "stockInicial": 200
+  },
+  {
+    "idProducto": "P009",
+    "nombre": "SmartWatch Fit",
+    "categoria": "Hardware",
+    "precioBase": 119.99,
+    "stockInicial": 15
+  },
+  {
+    "idProducto": "P010",
+    "nombre": "Funda Teclado Tablet",
+    "categoria": "Accesorios",
+    "precioBase": 19.99,
+    "stockInicial": 70
+  },
+  {
+    "idProducto": "P011",
+    "nombre": "Paquete Developer Tools",
+    "categoria": "Software",
+    "precioBase": 179.99,
+    "licencia": "Permanente"
+  },
+  {
+    "idProducto": "P012",
+    "nombre": "Sistema Contable Pro",
+    "categoria": "Software",
+    "precioBase": 299.99,
+    "licencia": "Anual"
+  },
+  {
+    "idProducto": "P013",
+    "nombre": "Cable de Red Cat7",
+    "categoria": "Accesorios",
+    "precioBase": 12.50,
+    "stockInicial": 150
+  },
+  {
+    "idProducto": "P014",
+    "nombre": "Memoria USB 64GB",
+    "categoria": "Accesorios",
+    "precioBase": 14.99,
+    "stockInicial": 500
+  },
+  {
+    "idProducto": "P015",
+    "nombre": "Impresora Multifunción",
+    "categoria": "Hardware",
+    "precioBase": 169.99,
+    "stockInicial": 25
+  },
+  {
+    "idProducto": "P016",
+    "nombre": "Auriculares Bluetooth",
+    "categoria": "Accesorios",
+    "precioBase": 35.99,
+    "stockInicial": 80
+  },
+  {
+    "idProducto": "P017",
+    "nombre": "Kit de Diseño Gráfico",
+    "categoria": "Software",
+    "precioBase": 249.99,
+    "licencia": "Permanente"
+  },
+  {
+    "idProducto": "P018",
+    "nombre": "Webcam Full HD",
+    "categoria": "Accesorios",
+    "precioBase": 39.99,
+    "stockInicial": 40
+  },
+  {
+    "idProducto": "P019",
+    "nombre": "Servidor NAS Familiar",
+    "categoria": "Hardware",
+    "precioBase": 399.99,
+    "stockInicial": 5
+  },
+  {
+    "idProducto": "P020",
+    "nombre": "Paquete Antivirus Pro",
+    "categoria": "Software",
+    "precioBase": 59.99,
+    "licencia": "Anual"
+  }
+]
